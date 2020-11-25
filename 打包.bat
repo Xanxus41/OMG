@@ -1,0 +1,1 @@
+cmd /k "pyinstaller -F -w -i C:\Users\Lpchao\Desktop\OMG2.0\omg.ico C:\Users\Lpchao\Desktop\OMG2.0\OMG.py"
